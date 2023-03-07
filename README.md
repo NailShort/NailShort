@@ -1,7 +1,7 @@
 <div align="center">
     <h1>🐰-- Hi There --🐰</h1>
     <p>
-        😀 My name is Zhang-Wen,Wang. 😀<br> 
+        My name is Zhang-Wen,Wang. 😀<br> 
         I have great passion to work in the web design.
     </p>
     <img src="./images/VWLYIGn.gif" height="400">
