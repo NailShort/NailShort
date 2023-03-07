@@ -5,8 +5,13 @@
 <div align="center">
     <img src="./images/VWLYIGn.gif" height="500">
     <br>
-<p> 
-<img src="./images/html.webp" height="80"><img src="./images/cssgif.webp" height="80"><img src="./images/js.webp" height="80"><img src="./images/vue.webp" height="80"><img src="./images/vscode.webp" height="80">
+<p margin-bottom="20"> 
+<img src="./images/html.webp" height="80">
+<img src="./images/cssgif.webp" height="80">
+<img src="./images/js.webp" height="80">
+<img src="./images/vue.webp" height="80">
+<img src="./images/vscode.webp" height="80">
+<img src="./images/github.webp" height="80">
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NailShort&theme=transparent)
