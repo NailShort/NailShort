@@ -5,7 +5,7 @@
 <div align="center">
     <img src="./images/VWLYIGn.gif" height="500">
     <br>
-<p margin-bottom="20"> 
+<p margin="30"> 
 <img src="./images/html.webp" height="80">
 <img src="./images/cssgif.webp" height="80">
 <img src="./images/js.webp" height="80">
