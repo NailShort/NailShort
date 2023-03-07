@@ -14,11 +14,11 @@
 <img src="./images/github.webp" height="80">
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NailShort&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NailShort&theme=slateorange)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NailShort&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NailShort&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NailShort&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NailShort&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NailShort&theme=slateorange)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NailShort&theme=slateorange)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NailShort&theme=slateorange)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NailShort&theme=slateorange)
 
  </div>
