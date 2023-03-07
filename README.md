@@ -1,10 +1,13 @@
-### Hi!😀 My name is Zhang-Wen,Wang.<br> 
-I have great passion to work in the web design.
+
 
 <hr>
 
 <div align="center">
     <h1>🐰-- Hi There --🐰</h1>
+    <p>
+    Hi!😀 My name is Zhang-Wen,Wang.<br> 
+I have great passion to work in the web design.
+    </p>
     <img src="./images/VWLYIGn.gif" height="400">
     <p height="30"></p>
 <p> 
