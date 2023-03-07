@@ -3,7 +3,7 @@
 <hr>
 
 <div align="center">
-    <h1>Hi There</h1>
+    <h1>🐰Hi There🐰</h1>
     <img src="./images/VWLYIGn.gif" height="400">
     <br>
 <p margin="30"> 
