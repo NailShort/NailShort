@@ -1,3 +1,3 @@
 # NailShort
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NailShort)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NailShort&theme=graywhite)
