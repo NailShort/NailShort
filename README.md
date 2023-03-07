@@ -5,8 +5,8 @@
 <div align="center">
     <h1>🐰-- Hi There --🐰</h1>
     <img src="./images/VWLYIGn.gif" height="400">
-    <br>
-<p margin="30"> 
+    <p></p>
+<p> 
 <img src="./images/html.webp" height="80">
 <img src="./images/cssgif.webp" height="80">
 <img src="./images/js.webp" height="80">
