@@ -4,7 +4,7 @@
         My name is Zhang-Wen,Wang. 😀<br> 
         I have great passion to work in the web design.
     </p>
-    <img src="./images/VWLYIGn.gif" height="400">
+    <img src="./images/VWLYIGn.gif" height="300">
     <p height="30"></p>
 <p> 
 <img src="./images/html.webp" height="80">
