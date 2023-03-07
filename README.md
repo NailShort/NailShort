@@ -1,4 +1,5 @@
-### Hi!😀 My name is Zhang-Wen,Wang. I have great passion to work in the web design.
+### Hi!😀 My name is Zhang-Wen,Wang.<br> 
+I have great passion to work in the web design.
 
 <hr>
 
