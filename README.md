@@ -11,6 +11,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NailShort&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NailShort&theme=nord_bright)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NailShort&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  </div>
