@@ -3,7 +3,8 @@
 <hr>
 
 <div align="center">
-    <img src="./images/VWLYIGn.gif" height="500">
+    <h1></h1>
+    <img src="./images/VWLYIGn.gif" height="400">
     <br>
 <p margin="30"> 
 <img src="./images/html.webp" height="80">
